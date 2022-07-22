@@ -35,8 +35,13 @@ npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
 ```
+```shell
 example：
 node https-bypass.js GET 10 https://baidu.com 180 2000
 使用GET 运行10个node进程攻击目标180秒 每秒2000次访问
+```
+
+
+
 
 
